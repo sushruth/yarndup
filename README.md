@@ -1,6 +1,6 @@
 ## Yarn package multiple version finder
 
-The name is not fully representative of what this tool does. I am bad at naming. Here is what this tool will do - it shows all versions of a package used in your `yarn.lock`.
+The name is not fully representative of what this tool does. I am bad at naming. Here is what this tool will do - it shows all versions of a package used in your `yarn.lock` and suggests a possible value for `resolutions` field in yarn.
 
 ### Usage
 
