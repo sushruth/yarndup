@@ -1,5 +1,6 @@
 const lockContents = Deno.readTextFileSync("yarn.lock");
 
+
 if (lockContents === null) {
   throw Error("File contents not there");
 }
